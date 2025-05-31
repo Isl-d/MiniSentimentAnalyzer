@@ -26,5 +26,5 @@ This project is a **quick sentiment analysis** tool using **TF-IDF** and **Logis
 
 ---
 
-👤 Created by Isl-d
-🔗 View this notebook on [Google Colab](https://colab.research.google.com/drive/1tfwxFrPvEpERm_78Osz3E4aa56im3gVW#scrollTo=zBltt_iFCZ5J))
+Created by Isl-d
+View this notebook on [Google Colab](https://colab.research.google.com/drive/1tfwxFrPvEpERm_78Osz3E4aa56im3gVW#scrollTo=zBltt_iFCZ5J))
